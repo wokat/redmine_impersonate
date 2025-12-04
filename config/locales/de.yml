@@ -1,0 +1,3 @@
+de:
+  notice_impersonating_user: User %{user} wird imitiert!
+  button_impersonate: Imitieren
